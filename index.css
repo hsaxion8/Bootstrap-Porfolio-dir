@@ -1,0 +1,56 @@
+
+.jumbotron {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+    margin-top: 20px;
+}
+
+#navbarNav {
+    background: rgb(188, 192, 192);
+    text-align: right;
+}
+#navhead {
+    background: turquoise;
+    color: white;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 134px;
+    padding: 0 0 0 0;
+}
+#center {
+    padding: auto;
+}
+body {
+    background-image: url("https://images.pexels.com/photos/8892/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+#Aboutme {
+    color: darkgray;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.hamspic {
+    display: inline;
+    float: left;
+    padding-right: 10px;
+}
+#About {
+    float: right;
+}
+#cont {
+    float: right;
+}
+#Port {
+    float: right;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(131, 131, 131);
+    color: white;
+    text-align: center;
+    border-top: 10px solid #7fdbd7;
+  }
